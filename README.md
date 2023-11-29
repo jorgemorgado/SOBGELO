@@ -44,7 +44,7 @@ For the third mode, Dosbox won't help much. You would need two very old personal
 
 ## The Story
 
-This was a school project somewhere around 1991-92. The code is heavily commented because that was required for the grading,
+This was a school project around 1991-92. The code is heavily commented because that was required for the grading.
 
 Later, I have decided to publish the code in Spooler - a hobbyist PC magazine that was very popular in Portugal at that time. After a few letters back and forth with the magazine, the game was ready to be published. This is the version that has been published.
 
