@@ -35,8 +35,8 @@ F:\>SOB-GELO.EXE
 There are 3 game modes:
 
 1. Single player against the PC
-2. Two players in the same PC
-3. Two players in two PCs (connected via serial RS232)
+2. Two players on the same PC
+3. Two players on two PCs (connected via serial RS232)
 
 For the third mode, Dosbox won't help much. You would need two very old personal computers running MS-DOS and an RS232 cable. Yeah, right.
 
